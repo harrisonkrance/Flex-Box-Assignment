@@ -1,0 +1,78 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.header h3 {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+.header-link {
+    display: flex;
+    text-decoration: none;
+    gap: 20px;
+    list-style: none;
+    color: #F9FAF8;
+    align-items: center;
+}
+.top-content {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    height: 400px;
+    align-items: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.hero-text {
+    display: flex;
+    flex-direction: column;
+}
+.awesome {
+    width: 250px;
+    font-size: 24px;
+    font-weight: 800;
+}
+.subtext {
+    width: 375px;
+}
+.top-content button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 75px;
+
+}
+.david img {
+    display: flex;
+    justify-content: center;
+    max-width: 400px;
+}
+.random-information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.random {
+    font-size: 24px;
+    font-weight: 800;
+}
+.random-image {
+    display: flex;
+    padding-left: 350px;
+    padding-right: 350px;
+    gap: 150px;
+}
+.random-image img {
+    display: flex;
+    flex-direction: column;
+    max-width: 100px;
+   
+}
+.random-subtext {
+   display: flex;
+flex-wrap: wrap;
+max-width: 125px;
+}
